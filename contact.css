@@ -1,0 +1,31 @@
+.contact-content {
+    padding: 40px;
+    background-color: #fafafa;
+    text-align: center;
+}
+
+.contact-content h1 {
+    font-family: 'Lobster', cursive;
+    color: #4CAF50;
+}
+
+form {
+    max-width: 500px;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    margin: 0 auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+form label {
+    font-weight: bold;
+}
+
+form input,
+form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 4px;
+}
